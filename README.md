@@ -1,2 +1,2 @@
 # fluffy-invention
-A text-based adventure game
+### A text-based adventure game, based on *Zork*
